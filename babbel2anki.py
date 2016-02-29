@@ -48,7 +48,7 @@ schema = {
 
 # User specific settings
 language = "RUS"
-search_params = {"auth_token": "JLjhRr55_B--FNRYMgL-", "page": None,
+search_params = {"auth_token": "dummy", "page": None,
                  "_": "1453198563056"}
 anki_folder = "/home/jsmith/Documents/Anki/JSmith"
 csv_filename = os.path.join(anki_folder, "babbel2anki.csv")
